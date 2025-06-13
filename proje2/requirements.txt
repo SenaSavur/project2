@@ -1,0 +1,8 @@
+flask
+pyjwt
+python-dotenv
+flask-cors
+sqlalchemy
+werkzeug
+dotenv
+subprocess
